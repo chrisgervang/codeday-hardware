@@ -6,7 +6,7 @@ We have over 100 packages of hardware at this CodeDay as part of a trial Chris i
 
 Chris's wish is that every hacker is at least proficient at building hardware hacks. The kits provided are for a wide variety of experience levels, so take some time and hack around!
 
-Ask questions as Github "Issue" here: https://github.com/chrisgervang/codeday-hardware/issues.
+**Ask questions as Github "Issue" here: https://github.com/chrisgervang/codeday-hardware/issues.**
 The staff will be notified immediatly!
 
 Table of da content:
