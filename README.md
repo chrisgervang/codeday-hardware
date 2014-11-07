@@ -50,13 +50,14 @@ If you want to add ANYTHING this guide please do! It is a live document and is n
 Pebble _(4)_
 ------
 
-The developer friendly smart watch that everyone loves! (and no I wasnt paid to say that..). These watches are super easy to program with their new JavaScript developer environment. Although the watch connects to your phone via Bluetooth, you can easily make apps that connect to the internet.
+The developer friendly smart watch that everyone loves! (and no I wasnt paid to say that..). These watches are super easy to program with their new JavaScript developer environment. Although the watch connects to your phone via Bluetooth, you can easily make apps that connect to the internet. For those C programmers out there, the Pebble SDK is one of the coolest ways to make C programs that do awesome things.
 
 ####Getting Started:
-Pebble JS: https://developer.getpebble.com/getting-started/pebble-js-tutorial/part1.html
+Pebble JS - https://developer.getpebble.com/getting-started/pebble-js-tutorial/part1.html
+Pebble C SDK, and iOS/Android SDK - https://developer.getpebble.com/getting-started/ 
 
 ####Dev Tools:
-Cloud Pebble: https://cloudpebble.net/?next=/ide/gist/87cbe7b34e8a0fd60fbf#login
+Cloud Pebble - https://cloudpebble.net/?next=/ide/gist/87cbe7b34e8a0fd60fbf#login
 
 SmartThings
 -----------
