@@ -53,9 +53,10 @@ Pebble _(4)_
 The developer friendly smart watch that everyone loves! (and no I wasnt paid to say that..). These watches are super easy to program with their new JavaScript developer environment. Although the watch connects to your phone via Bluetooth, you can easily make apps that connect to the internet.
 
 ####Getting Started:
+Pebble JS: https://developer.getpebble.com/getting-started/pebble-js-tutorial/part1.html
 
 ####Dev Tools:
-
+Cloud Pebble: https://cloudpebble.net/?next=/ide/gist/87cbe7b34e8a0fd60fbf#login
 
 SmartThings
 -----------
