@@ -36,8 +36,6 @@ Borrowing guidelines:
 
 Just to reiterate: **You get a free Spark Core*** if you use it in your hack or tell us what you learned while playing with it. Just tell one of the staff what you did with your Spark Core, and they will clear you off the list! **Please return everything else.**
 
--------
-
 Guide Contents:
 ---------------
 - Brief purpose
