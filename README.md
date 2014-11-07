@@ -42,13 +42,15 @@ Guide Contents:
 - Package contents
 - Developer resources (guides, documentation, helpful tips)
 
+--------
+
 If you want to add ANYTHING this guide please do! It is a live document and is not tested.
 
 
 Pebble _(4)_
 ------
 
-The developer friendly smart watch that everyone loves! (and no I wasnt paid to say that..). These watches are super easy to program with their new JavaScript developer environment. Although the watch connects to our phones via Bluetooth, you can easily make apps that connect to the internet.
+The developer friendly smart watch that everyone loves! (and no I wasnt paid to say that..). These watches are super easy to program with their new JavaScript developer environment. Although the watch connects to your phone via Bluetooth, you can easily make apps that connect to the internet.
 
 ####Getting Started:
 
