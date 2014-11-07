@@ -11,7 +11,21 @@ The staff will be notified immediatly!
 
 Table of da content:
 ====================
-Borrowing guidelines (TL;DR: Please return everything borrowed by the end of CodeDay!)
+1. [Borrowing guidelines (TL;DR: Please return everything borrowed by the end of CodeDay!)](https://github.com/chrisgervang/codeday-hardware#borrowing-guidelines)
+
+2. [Pebble](https://github.com/chrisgervang/codeday-hardware#pebble-4)
+3. [SmartThings](https://github.com/chrisgervang/codeday-hardware#smartthings)
+4. [Arduino Compatible Microcontrollers](https://github.com/chrisgervang/codeday-hardware#arduino-compatible-microcontrollers)
+5. [Getting Started With Circuits Kits](https://github.com/chrisgervang/codeday-hardware#getting-started-with-circuits-kits)
+6. [Leap Motion](https://github.com/chrisgervang/codeday-hardware#leap-motion-1)
+7. [Electric Imp](https://github.com/chrisgervang/codeday-hardware#electric-imp-1)
+8. [Tessel](https://github.com/chrisgervang/codeday-hardware#tessel-1)
+9. [NFC Ring](https://github.com/chrisgervang/codeday-hardware#nfc-ring-1)
+10. [Belkin WeMo](https://github.com/chrisgervang/codeday-hardware#belkin-wemo)
+11. [Raspberry Pi](https://github.com/chrisgervang/codeday-hardware#raspberry-pi)
+12. [Shields: Arduino/Breadboard Compatible](https://github.com/chrisgervang/codeday-hardware#shields-arduinobreadboard-compatible)
+13. [Sensor/Actuator Kits](https://github.com/chrisgervang/codeday-hardware#sensoractuator-kits)
+14. [Misc Kits](https://github.com/chrisgervang/codeday-hardware#misc-kits)
 
 Borrowing guidelines:
 ---------------------
@@ -104,11 +118,20 @@ The easiest way to make a hardware hack with Intel InsideTM. Nuff said. I believ
 Getting Started With Circuits Kits
 -----------------
 
+Never touched electronic circuits before, but curious what all the hu-bub is about?? Than you should pick any of these up and play away!
+
 ###LightUp Mini Kit _(1)_
+
+Lego-like building blocks for tons of basic circuits. Includes cool phone app for visual troubleshooting!
 
 ###Circuit Scribe Kit 1 _(1)_
 
+Draw your own circuits! Literally! Just use their silver pen and some paper + this kits components to make something cool.
+Includes: Pen + Paper + a handful of basic electronic components + battery.
+
 ###Circuit Scribe Kit 2 _(1)_
+
+Draw your own circuits! Literally! Includes: Pen + paper + LED test + battery.
 
 Leap Motion _(1)_
 -----------------
@@ -164,26 +187,79 @@ Shields: Arduino/Breadboard Compatible
 
 ###GPS Shield _(2)_
 
+Tracks location! Yay!
+
 ###MOSFET Shield _(1)_
+
+Faster switcher than relay. Can be used to control brightness of LED Strips via PWM.
+Includes: Shield + Funky Wire
 
 ###Relay Shield _(2)_
 
+Arduino controlled On/Off switch for higher voltage circuits (like lamps, or sockets).
+Includes: Shield + Funky Wires
+
 ###RGB LED Shield _(1)_
+
+Simple yet fun RGB LED put on a tiny shield.
 
 Sensor/Actuator Kits
 --------------------
 
+_Grove_: Sounds fancy! Hmm, it kinda is - but is basically just a standard cable package for a bunch of sensors. It makes it so you dont have to do as much work before you get coding!
+
 ###Grove Kit 1 _(1)_
+
+This is a glorified sensor pack.
+Includes:
+- Microphone (audio sensor)
+- Piezo Speaker
+- 2 Grove wires
+- Breadboard Grove Shield
+
 
 ###Grove Kit 2 _(1)_
 
+This is another glorified sensor pack.
+Includes:
+- LCD w/ RGB LED backlight
+- Touch sensor
+- 2 Grove wires
+- Breadboard Grove Shield
+
 ###Grove Kit 3 _(1)_
+
+This is yet another glorified sensor pack.
+Includes:
+- Temperature Sensor
+- Rotation Sensor (similar to a potentiomitor)
+- Button
+- LED (includes a dial for brightness?)
+- Relay
+- Light Sensor
+- Servo
+- Bunch-O-Wire
+- Arduino Grove Shield
 
 ###Magnetic Switch _(2)_
 
+This simple switch is on or off depending on whether the magnet is touching. Commonly used to keep burglers from poking around ones house.
+
 ###Sensor Pack _(4)_
 
+This isn't a glorified sensor pack. Just a normal one.
+Includes:
+- Photoresistor
+- Piezo speaker
+- Tilt sensor
+- Pressure pad sensor
+
 ###Servo Kit _(3)_
+Tiny servo. I dont believe it is continous (so it only rotates within a certain range)
+Includes:
+- Servo
+- Spec panel
+- Plastic mounts
 
 
 Misc Kits
@@ -191,14 +267,35 @@ Misc Kits
 
 ###Breadboard + Wires _(6)_
 
+The very basics!!! Just a breadboard and 10 breadboard wires I had laying around.
+
 ###3 Digit LED Keypad _(1)_
+
+This can display 3 numbers w/ a floating point.
 
 ###Digital Number Pad _(1)_
 
+Basic telephone keypad packaged nicely for Arduino projects.
+
 ###12V Warm LED Strip _(1)_
+
+Basic kit includes:
+- Long strip of LEDs (please dont cut)
+- Power supply (prestripped for hacking convenience)
+
+Note: To control brightness you'll want the MOSFET shield too!
 
 ###RGB LED STRIP KIT _(1)_
 
+This one is a bit messy, but is basically a few RGB LED strips plus a couple premade breadbaord circuits for controlling the RGB LEDs. Great for adding color light!
+
+Includes:
+- 2 breadboards with complete MOSFET control circuits for each color channel
+- Power supply
+
+Please try to return the breadboards with the control circuit working.
+
+------
 
 
 
