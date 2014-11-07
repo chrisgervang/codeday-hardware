@@ -42,9 +42,11 @@ Guide Contents:
 - Package contents
 - Developer resources (guides, documentation, helpful tips)
 
---------
+-------
 
 If you want to add ANYTHING this guide please do! It is a live document and is not tested.
+
+--------
 
 
 Pebble _(4)_
