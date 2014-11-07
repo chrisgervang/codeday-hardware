@@ -12,7 +12,6 @@ The staff will be notified immediatly!
 Table of da content:
 ====================
 1. [Borrowing guidelines (TL;DR: Please return everything borrowed by the end of CodeDay!)](https://github.com/chrisgervang/codeday-hardware#borrowing-guidelines)
-
 2. [Pebble](https://github.com/chrisgervang/codeday-hardware#pebble-4)
 3. [SmartThings](https://github.com/chrisgervang/codeday-hardware#smartthings)
 4. [Arduino Compatible Microcontrollers](https://github.com/chrisgervang/codeday-hardware#arduino-compatible-microcontrollers)
